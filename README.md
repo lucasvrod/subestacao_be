@@ -54,6 +54,7 @@ src
 │   └── resources
 │       ├── application.properties
 │       └── data.sql           # Dados de inicialização (mock)
+├───tests
 ```
 ## 🔧 Como Rodar Localmente
 1. Pré-requisitos
